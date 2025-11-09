@@ -1,7 +1,7 @@
 # 📢 JPlayerAnnounce
 
 Simple plugin for player announcements: broadcast, buy/sale<br>
-Customize sound and text for each announcement command
+Customize sound, text and cooldowns for each announcement team
 
 ---
 
