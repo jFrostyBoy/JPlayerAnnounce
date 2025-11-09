@@ -1,0 +1,17 @@
+name: JPlayerAnnounce
+version: '${project.version}'
+main: jfbdev.jplayerannounce.JPlayerAnnounce
+api-version: '1.16'
+authors: [jFrostyBoy]
+description: 'Simple plugin for player announcements: broadcast, buy/sale'
+
+commands:
+  broadcast:
+    usage: /<command> <message>
+    aliases: [bc]
+  buy:
+    usage: /<command> <message>
+  sale:
+    usage: /<command> <message>
+  jpareload:
+    usage: /<command>
